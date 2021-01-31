@@ -11,6 +11,8 @@ The purpose of this project was to create a regular 9 A.M - 5 P.M. work day-plan
 
 
 ### How to use?
+
+
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
