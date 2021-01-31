@@ -1,6 +1,6 @@
 # Day Planner
 
-### Description
+## Description
 The purpose of this project was to create a regular 9 A.M - 5 P.M. work day-planner. The planner can be saved and changed for each hour. Past, present and future tasks are highlighted to inform current status of events; grey being past, red being present, green be future events.
 
 
@@ -9,6 +9,8 @@ The purpose of this project was to create a regular 9 A.M - 5 P.M. work day-plan
 
 
 
+
+### How to use?
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -23,7 +25,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-##### Sources
+### Sources
 
 
 - [Moment.js](https://momentjs.com/)
@@ -33,10 +35,10 @@ THEN the saved events persist
 - [W3Schools](https://www.w3schools.com/)
 - [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-##### Contributors:
+### Contributors:
 
 * matachemarius92@gmail.com
 * [Matache Marius](https://github.com/MatacheMarius)
-##### Directory:
+### Directory:
 * [Current Repository](https://github.com/MatacheMarius/Day-Planner)
 * [Website](https://matachemarius.github.io/Day-Planner/.)
